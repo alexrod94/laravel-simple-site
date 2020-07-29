@@ -1,0 +1,15 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+#footer {
+    margin-top: 30px;
+    padding: 20px;
+    color: #fff;
+    background: #333;
+}
